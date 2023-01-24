@@ -1,0 +1,552 @@
+ <header class="header">
+        <nav class="navbar navbar-expand-lg ">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">
+                    <img src="assets/images/logo/logo.png" width="55%" alt="">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <!-- <span class="navbar-toggler-icon"></span> -->
+                    <i class="fas fa-stream navbar-toggler-icon"></i>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                    <ul class="navbar-nav  mb-2 mb-lg-0">
+                        <!--  -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Our Products</a>
+                        </li>
+                        <!--  -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link  dropdown-toggle" href="#" data-bs-toggle="dropdown">Calculators</a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">EMI Calculator</a></li>
+                                <li><a class="dropdown-item" href="#">Load Calculator</a></li>
+                            </ul>
+                        </li>
+                        <!--  -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Blog</a>
+                        </li>
+                        <!--  -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contact</a>
+                        </li>
+                        <!--  -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">About us</a>
+                        </li>
+                        <!--  -->
+                    </ul>
+                </div>
+                <!-- <div class="d-lg-block  d-none">
+                    <ul class="navbar-nav social-icon  text-end">
+                        <li class="nav-item"> <a class="#" href="index.html"><i class="fab fa-facebook-f"></i></a>
+                        </li>
+                        <li class="nav-item "> <a class="#" href="index.html"><i class="fab fa-twitter"></i> </a> </li>
+                        <li class="nav-item "> <a class="#" href="index.html"><i class="fab fa-instagram"></i> </a>
+                        </li>
+                    </ul>
+                </div> -->
+            </div>
+        </nav>
+    </header>
+ 
+ <!-- ======================recipes start====================== -->
+    <section class="recipe">
+        <div class="container">
+            <h2>Simple and tasty recipes</h2>
+            <p>Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqut enim ad minim </p>
+            <div class="row recipe-all">
+                <!-- 1 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/1.png" alt="" class="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>Big and Juicy Wagyu Beef Cheeseburger</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Snack
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /1 -->
+                <!-- 2 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/2.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>Fresh Lime Roasted Salmon with Ginger Sauce</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> fish
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /2 -->
+                <!-- 3 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/3.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>Strawberry Oatmeal Pancake with Honey Syrup</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Breakfast
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /3 -->
+                <!-- 4 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/4.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>Fresh and Healthy Mixed Mayonnaise Salad</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Healthy
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /4 -->
+                <!-- 5 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/5.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>Chicken Meatballs with Cream Cheese</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Meat
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- 5 -->
+                <!-- 6 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/1.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>Big and Juicy Wagyu Beef Cheeseburger</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Snack
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/ 6 -->
+                <!-- 7 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/6.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>Fruity Pancake with Orange & Blueberry</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Sweet
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /7 end -->
+                <!-- 8 -->
+                <div class="col-lg-4 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/7.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>The Best Easy One Pot Chicken and Rice</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Snack
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /8 end -->
+                <!-- 9 -->
+                <div class="col-lg-4 col-md-6 ">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/8.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>The Creamiest Creamy Chicken and Bacon Pasta</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Noodles
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- /9end -->
+                <!-- 10 -->
+                <!-- 9 -->
+                <div class="d-lg-none col-md-6 ">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/recipe/8.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h4>The Creamiest Creamy Chicken and Bacon Pasta</h4>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Noodles
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- /10 -->
+            </div>
+        </div>
+    </section>
+    <!-- ======================/recipe end ======================-->
+    <!-- ======================kitchen====================== -->
+    <section class="kitchen">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h2>Everyone can be a
+                        chef in their own kitchen</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore magna aliqut enim ad minim </p>
+                    <div class="my-5">
+                        <a href="" class="main-btn ">Learn More</a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <img src="assets/images/kitchen/kitchen.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ======================/kitchen====================== -->
+    <!--======================make day ======================-->
+    <section class="day">
+        <div class="container">
+            <div class="row py-3">
+                <div class="col-md-6">
+                    <h2>Try this delicious recipe
+                        to make your day</h2>
+                </div>
+                <div class="col-md-6 py-2">
+                    <p>Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore magna aliqut enim ad minim </p>
+                </div>
+            </div>
+            <!-- /row -->
+            <div class="row">
+                <!-- 1 -->
+                <div class="col-xl-3 col-md-6 col-sm-12">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+
+                            <img src="assets/images/day/1.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h5>Mixed Tropical Fruit Salad with Superfood Boosts </h5>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Healthy
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- /1 end -->
+                <!-- 2nd -->
+                <div class="col-xl-3 col-md-6 col-sm-12">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/day/2.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h5>Big and Juicy Wagyu Beef Cheeseburger</h5>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Western
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- 2nd end -->
+                <!-- 3 -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/day/3.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h5>Healthy Japanese Fried Rice with Asparagus</h5>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Healthy
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /3 -->
+                <!-- 4 -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/day/4.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h5>Cauliflower Walnut Vegetarian Taco Meat</h5>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Eastern
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /4 -->
+                <!-- 5 -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/day/5.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h5>Healthy Japanese Fried Rice with Asparagus</h5>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Healthy
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /5 -->
+                <!-- 6 -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/day/6.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h5>Barbeque Spicy Sandwiches with Chips</h5>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Snack
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- /6 -->
+                <!-- 7 -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/day/7.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h5>Firecracker Vegan Lettuce Wraps - Spicy!</h5>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class="ms-2"> Seafood
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /7 -->
+                <!-- 8 -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="recipe-card">
+                        <div class="heart">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <div class="recipe-img">
+                            <img src="assets/images/day/8.png" alt="">
+                        </div>
+                        <div class="recipe-card-body">
+                            <h5>Chicken Ramen Soup with Mushroom</h5>
+                            <div class="recipe-time">
+                                <a href="">
+                                    <img src="assets/images/vector/Vector.svg" alt=""> 30 Minutes
+                                </a>
+                                <a href="">
+                                    <img src="assets/images/vector/chicken.svg" alt="" class=""> Japanese
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /8 -->
+            </div>
+            <!-- /row -->
+        </div>
+        <!-- /container -->
+    </section>
+    <!-- ======================/make day end====================== -->
+    <!-- ======================inbox ======================-->
+    <section class="inbox">
+        <div class="container inboxwrap">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>Deliciousness to your inbox</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetuipisicing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore magna aliqut enim ad minim </p>
+                </div>
+                <div class="col-xl-5 col-lg-10 col-md-10 mx-auto py-5 ">
+                    <form>
+                        <div class="form-group inbox-form">
+                            <input type="email" class="form-control" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="Enter email" required>
+                            <button type="submit" class="main-btn">Subscribe</button>
+                        </div>
+                    </form>
+                </div>
+                <div class=" d-xl-block  d-none inboximg">
+                    <img src="assets/images/inbox/1.png" alt="" class="inboximgfst">
+                    <img src="assets/images/inbox/2.png" alt="" class="inboximgscnd">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ======================/inbox end====================== -->

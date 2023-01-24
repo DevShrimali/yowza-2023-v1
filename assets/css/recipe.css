@@ -1,0 +1,119 @@
+/* health */
+.health-img
+{
+    overflow: hidden;
+    border-radius: 30px;
+}
+.health-img img
+{
+    width: 100%;
+    border-radius: 30px;
+    transition: all 0.5s;
+}
+.health-img img:hover
+{
+    transform: scale(1.1);
+}
+.health .information
+{
+    background: #E7FAFE;
+border-radius: 30px;
+padding: 2rem;
+}
+/* health end */
+/* --------------------------------dish------------------------- */
+.dishes li
+{
+    font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: -0.02em;
+color:var(--text-color);
+padding: 1.2rem 0;
+}
+/* other recipe */
+.otherrecipe-item
+{
+    padding: 1rem 0;
+}
+.otherrecipe-img
+{
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.otherrecipe-img img
+{
+    width: 100%;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+.otherrecipe-img img:hover
+{
+    transform: scale(1.1);
+}
+.otherrecipe span
+{
+    font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: -0.02em;
+color: rgba(0, 0, 0, 0.6);
+
+}
+/* otherrecipe end */
+/*------------------------------------------dishes end---------------------------------- */
+/*.recipe-badge start-------------  */
+.recipe-badge
+{
+    position: relative;
+}
+.recipe-badge-profile .recipe-profile
+{
+    position: absolute;
+    top: 32px;
+    right: 38px;
+    font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 17px;
+letter-spacing: -0.02em;
+}
+.recipe-badge p
+{
+    position: absolute;
+    top: 22px;
+    right: 38px;
+    font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 17px;
+letter-spacing: -0.02em;
+}
+.recipe-badge a
+{
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 30px;
+    padding:1.2rem 1.5rem;
+    margin: 0 0.2rem;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -0.02em;
+    color: var(--paragraph);
+}
+.recipeicon
+{
+    background: var( --banner-background);
+    padding: 0.7rem;
+    border-radius: 50%;
+}
+/* recipe badge end------------------------ */
+/* direction */
+.direction
+{
+    padding: 0;
+}
+
+
+/* dirction end */

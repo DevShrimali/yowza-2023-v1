@@ -1,0 +1,19 @@
+/* post */
+.blog-post img
+{
+    border-radius: 20px;
+    width: 100%;
+}
+
+/* post end */
+/* question */
+.question
+{
+    padding:3rem 1rem;
+}
+.question .italic
+{
+    font-style: italic;
+font-weight: 500;
+}
+/* question end */
